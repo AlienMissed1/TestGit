@@ -9,6 +9,7 @@ int main()
 	string hola;
 	cout << "Hello World! \nSay Hello to me, i´m alone";
 	cin >> hola;
+	cout<< "Hello, again, you are not alone anymore";
 }
 
 // Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar
